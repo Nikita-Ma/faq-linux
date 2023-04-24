@@ -1,3 +1,4 @@
+
 # Welcome in my LINUX NOTES!
 
 ## Very fast history 
@@ -31,4 +32,19 @@
 |`Write`| write files |
 |`Execute`| execute files |
 *examples* `d(1)r(2)w(3)xrwx r-x z wer user`
+
+*1. root user*
+*2. all users*
+
+|`id root`| output users  |
+|`gid`| group for users |
+
+## Bash programming
+
+|`0`| success  |
+|`any`| error |
+ 
+ ### Scripts
+ - one line
+ - file
 
