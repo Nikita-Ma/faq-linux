@@ -48,3 +48,15 @@
  - one line
  - file
 
+
+## WEB-SERVICES
+`All talking WWW on IP level` 
+
+###  Apache vs NGINX (Main)
+#### Apache 
+- use on *backend*
+- checked time
+#### NGINX 
+- more environment
+- use on *frontend*
+- *doesn't* balance load
