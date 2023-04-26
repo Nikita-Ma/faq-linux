@@ -1,5 +1,6 @@
 
-# Welcome in my LINUX NOTES!
+
+# Welcome to my LINUX NOTES!
 
 ## Very fast history 
 - BESYS 
@@ -60,3 +61,8 @@
 - more environment
 - use on *frontend*
 - *doesn't* balance load
+
+## Crypto 
+
+**Async. Crypto** - crypto key1, decryption key2
+**Sync. crypto** - edit info and interferes with the code (usually used md5)
